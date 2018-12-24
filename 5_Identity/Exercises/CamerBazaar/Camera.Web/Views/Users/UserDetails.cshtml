@@ -1,0 +1,123 @@
+﻿@model UserDetailsViewModel
+
+@{
+    ViewData["Title"] = "User Details";
+}
+<br />
+<div class="container-fluid">
+    <div class="col-sm-2">
+        <br />
+        <br />
+        <br />
+        <br />
+        <ul>
+            <li>
+                <a href="/cameras/all/">All Cameras</a>
+            </li>
+            <li>
+                <a href="/users/editmyprofile">Edit My Profile</a>
+            </li>
+            <li>
+                <a href="/cameras/create">Add Camera</a>
+            </li>
+            <li>
+                <a href="/users/logout">Log out</a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-sm-10">
+        <h2>@ViewData["Title"]</h2>
+        <br />
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <h2 class="text-success">@TempData["SuccessMessage"]</h2>
+        }
+        <br />
+        @if (this.TempData["ErrorMessage"] != null)
+        {
+            <h2 class="text-warning">@TempData["ErrorMessage"]</h2>
+        }
+            <h1>
+                @ViewData["message"]
+            </h1>
+        <br />
+        <br />
+        <tr>
+            <td colspan="4">
+                <div class="container-fluid">
+                    <div class="col-sm-2" align="right">
+                        Email :
+                    </div>
+                    <div class="col-sm-10 left">
+                          <a href="https://www.abv.bg/">@Model.Email</a>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <div class="container-fluid">
+                    <div class="col-sm-2" align="right">
+                        Phone :
+                    </div>
+                    <div class="col-sm-10 left">
+                        @Model.Phone
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <div class="container-fluid">
+                    <div class="col-sm-2" align="right">
+                        Cameras :
+                    </div>
+                    <div class="col-sm-10 left">
+                        @Model.CountInStockCameras in stock/@Model.CountOutOfStockCameras out of stock
+                    </div>
+                </div>
+            </td>
+        </tr>
+
+        <h1>Cameras</h1>
+
+        <table class="table ">
+
+            @foreach (var camera in Model.Cameras)
+            {
+                <tr>
+                    <td rowspan="2">
+                        <img src="@camera.ImageUrl" alt="Alternate Text" width="200" />
+                    </td>
+                    <td>
+                        @camera.Make
+                    </td>
+                    <td>
+                        @camera.Model
+                    </td>
+                    <td>
+                        $@camera.Price
+
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <a href="/cameras/@camera.Id">@camera.Details</a>
+                    </td>
+                    <td>
+                        @{
+                            if (camera.InStock == InStock.InStock)
+                            {
+                                <h3 style="color: lime">IN STOCK</h3>
+                            }
+                            else
+                            {
+                                <h3 style="color: red">OUT OF STOCK</h3>
+                            }
+                        }
+                    </td>
+                </tr>
+            }
+        </table>
+        </div>
+</div>

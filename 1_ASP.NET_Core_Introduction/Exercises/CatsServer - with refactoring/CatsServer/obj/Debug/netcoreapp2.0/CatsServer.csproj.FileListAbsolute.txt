@@ -1,0 +1,22 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\bin\Debug\netcoreapp2.0\CatsServer.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\1_ASP.NET Core Introduction\Exercises\CatsServer - with refactoring\CatsServer\obj\Debug\netcoreapp2.0\CatsServer.pdb

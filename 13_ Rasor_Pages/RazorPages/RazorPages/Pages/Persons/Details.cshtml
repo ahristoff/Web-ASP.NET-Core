@@ -1,0 +1,25 @@
+﻿@page
+@model RazorPages.Pages.Persons.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<h2>Firstname: @Model.Persons.Firstname</h2>
+<br />
+<h2>Lastname: @Model.Persons.Lastname</h2>
+<br />
+<h4>Email: @Model.Persons.Email</h4>
+<br />
+<h4>Username: @Model.Persons.Username</h4>
+<br />
+<h4>Age: @Model.Persons.Age</h4>
+
+<h1>Id: @Model.Id</h1>
+
+
+<br />
+<br />
+<br />
+<a class="btn btn-primary" asp-page="Index" asp-page-handler="OnGet">All Users</a>

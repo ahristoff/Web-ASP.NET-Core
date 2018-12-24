@@ -1,0 +1,27 @@
+﻿@page
+
+@model RazorPages.Pages.Persons.IndexModel
+@{
+    ViewData["Title"] = "All Users from Pages.Persons.Index";
+}
+
+<h2>@ViewData["Title"]</h2>
+<br />
+
+@foreach (var person in Model.Persons)
+{
+    <div class="row">
+        <div class="col-md-3">
+            @person.Firstname @person.Lastname
+        </div>
+        <div class="col-md-1">
+            <a class="btn btn-primary" asp-page="Details" asp-page-handler="OnGet" asp-route-id="@person.Id">Details</a>
+        </div>
+        <div class="col-md-1">
+            <a class="btn btn-warning" asp-page="Edit" asp-page-handler="OnGet" asp-route-id="@person.Id">Edit</a>
+        </div>
+        <div class="col-md-1">
+            <a class="btn btn-danger" asp-page="Delete" asp-page-handler="OnGet" asp-route-id="@person.Id">Delete</a>
+        </div>
+    </div>
+}

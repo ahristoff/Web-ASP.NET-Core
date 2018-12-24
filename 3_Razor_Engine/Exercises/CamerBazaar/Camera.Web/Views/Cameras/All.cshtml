@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CameraAllListingModel>
+
+@{
+    ViewData["Title"] = "All Cameras";
+}
+
+<h2>@ViewData["Title"]</h2>
+<br />
+@if (this.TempData["ErrorMessage"] != null)
+{
+    <h2 class="text-warning">@TempData["ErrorMessage"]</h2>
+}
+<br />
+
+<table class="table ">
+
+    @foreach (var camera in Model)
+    {
+        <tr>
+            <td rowspan="2">
+                <img src="@camera.ImageUrl" alt="Alternate Text" width="200" />
+            </td>
+            <td>
+                @camera.Make
+            </td>
+            <td>
+                @camera.Model
+            </td>
+            <td>
+                $@camera.Price
+            </td>
+            <td>
+                <a class="btn btn-danger" href="/cameras/edit/@camera.Id">Edit</a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <a href="/cameras/@camera.Id">@camera.Details</a>
+            </td>
+            <td>
+                @{
+                    if (camera.InStock == InStock.InStock)
+                    {
+                        <h3 style="color: lime">IN STOCK</h3>
+                    }
+                    else
+                    {
+                        <h3 style="color: red">OUT OF STOCK</h3>
+                    }
+                }
+            </td>
+            <td>
+                <a class="btn btn-warning" href="/cameras/delete/@camera.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

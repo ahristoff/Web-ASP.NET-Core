@@ -1,0 +1,11 @@
+﻿@model DeleteUserViewModel
+@{
+    ViewData["Title"] = "Delete User";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<h2>Are you sure i wont to delete this user @Model.Email</h2>
+
+<a href="/identity/destroy/@Model.Id" class="btn btn-danger">Delete User</a>
+<a href="/identity/all">Back to All Users</a>

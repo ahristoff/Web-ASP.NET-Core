@@ -1,0 +1,9 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\bin\Debug\netcoreapp2.0\News.Data.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\bin\Debug\netcoreapp2.0\News.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\bin\Debug\netcoreapp2.0\News.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\10_UnitTest_WebServices_and_ApiControllers\Exercises\News\News.Data\obj\Debug\netcoreapp2.0\News.Data.pdb

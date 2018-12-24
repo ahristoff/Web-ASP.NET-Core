@@ -1,0 +1,53 @@
+﻿@model CarsByMakeModel
+
+@{
+    ViewData["Title"] = "Cars by make";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Make">Make: </label>
+                <input asp-for="Make" class="form-control">
+                <span asp-validation-for="Make" class="form-text text-danger"></span>
+            </div>
+            <div>
+                <input class="btn btn-success" type="submit" value="Submit make" />
+            </div>
+        </form>
+    </div>
+</div>
+@if (Model != null)
+{
+    <table class="table table-bordered table-hover">
+        <tr>
+            <td>
+                Make
+            </td>
+            <td>
+                Model
+            </td>
+            <td>
+                Travelled Distance
+            </td>
+        </tr>
+        @foreach (var car in Model.Cars)
+        {
+            <tr>
+                <th>
+                    @car.Make
+                </th>
+                <th>
+                    @car.Model
+                </th>
+                <th>
+                    @(car.TraveledDistance / 1000) Km
+                </th>
+            </tr>
+        }
+    </table>
+}
+
+

@@ -1,0 +1,36 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\bin\Debug\netstandard2.0\Camera.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net_GitHub\4_Filters\Exercises\CamerBazaar\Camera.Services\obj\Debug\netstandard2.0\Camera.Services.pdb

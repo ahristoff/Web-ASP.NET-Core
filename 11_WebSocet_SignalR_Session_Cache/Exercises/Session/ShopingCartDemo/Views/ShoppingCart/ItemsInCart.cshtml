@@ -1,0 +1,45 @@
+﻿@model IEnumerable<CartItemViewModel>
+@{
+    ViewData["Title"] = "Your Items In Cart";
+}
+
+<h2>@ViewData["Title"]</h2>
+<br />
+@if (this.TempData["ErrorMessage"] != null)
+{
+    <h2 class="alert-danger">@TempData["ErrorMessage"]</h2>
+}
+<br />
+@foreach (var item in Model)
+{
+    <div>
+        <p>
+            Name: @item.Name; Price: $@item.Price; Quantity: @item.Quantity
+            <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="RemoveProduct" asp-route-productId="@item.ProductId">Remove Product</a>
+            <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="RemoveQuantity" asp-route-productId="@item.ProductId">Remove Quantity</a>
+        </p>
+
+    </div>
+}
+<hr />
+<br />
+<br />
+Total Price: $@Model.Sum(p => p.Price * p.Quantity)
+<br />
+<br />
+@if (!User.Identity.IsAuthenticated)
+{
+<h4>
+    To complete this shopping cart, you need to
+    <a style="color:red" asp-controller="Account" asp-action="login" asp-route-returnUrl="@Context.Request.Path">login</a>
+    or
+    <a style="color:red" asp-controller="Account" asp-action="register" asp-route-returnUrl="@Context.Request.Path">register</a>
+    into your account
+</h4>
+   
+}
+@if (User.Identity.IsAuthenticated)
+{
+    <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="FinishOrder">Finish Order</a>
+}
+

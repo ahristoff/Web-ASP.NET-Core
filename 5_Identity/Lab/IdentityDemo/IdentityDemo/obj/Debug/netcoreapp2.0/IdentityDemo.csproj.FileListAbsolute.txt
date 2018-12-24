@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\bin\Debug\netcoreapp2.0\IdentityDemo.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\bin\Debug\netcoreapp2.0\IdentityDemo.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\bin\Debug\netcoreapp2.0\IdentityDemo.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\bin\Debug\netcoreapp2.0\IdentityDemo.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\bin\Debug\netcoreapp2.0\IdentityDemo.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.0\IdentityDemo.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.0\IdentityDemo.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.0\IdentityDemo.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.0\IdentityDemo.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.0\IdentityDemo.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\5_Identity\Lab\IdentityDemo\IdentityDemo\obj\Debug\netcoreapp2.0\IdentityDemo.csprojResolveAssemblyReference.cache

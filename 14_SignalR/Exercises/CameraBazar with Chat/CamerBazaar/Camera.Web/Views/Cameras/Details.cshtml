@@ -1,0 +1,167 @@
+﻿@model CameraDetailsModel
+
+@{
+    ViewData["Title"] = "Camera Details";
+}
+
+<br />
+<div class="container-fluid">
+    <div class="col-sm-2">
+        <br />
+        <br />
+        <br />
+        <br />
+        <ul>
+            <li>
+                <a href="/cameras/all/">All Cameras</a>
+            </li>
+            <li>
+                <a href="/users/myprofile/">My Profile</a>
+            </li>
+            <li>
+                <a href="/users/editmyprofile">Edit My Profile</a>
+            </li>
+            <li>
+                <a href="/cameras/create">Add Camera</a>
+            </li>
+            <li>
+                <a href="/users/logout">Log out</a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-sm-10">
+        <h2>@ViewData["Title"]</h2>
+        <br />
+        <table class="table ">
+            <tr>
+                <td>
+                    <h3>@Model.Make</h3>
+                </td>
+                <td>
+                    <h3>@Model.ModelCamera</h3>
+                </td>
+                <td>
+                    <h3>- $@Model.Price</h3>
+                </td>
+                <td>
+                    @{
+                        if (Model.InStock == InStock.InStock)
+                        {
+                            <h3 style="color: lime"> - IN STOCK</h3>
+                        }
+                        else
+                        {
+                            <h3 style="color: red"> - OUT OF STOCK</h3>
+                        }
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <h3><a href="/users/userdetails/@Model.UserId">@Model.Username</a></h3>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <img src="@Model.ImageUrl" alt="Alternate Text" width="200" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4" align="right">
+                            Is Full Frame :
+                        </div>
+                        <div class="col-sm-8 left">
+                            @Model.IsFullFrame
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4 right" align="right">
+                            Min Shutter Speed :
+                        </div>
+                        <div class="col-sm-8 left">
+                            @(Model.MinShutterSpeed)"
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4 right" align="right">
+                            Max Shutter Speed:
+                        </div>
+                        <div class="col-sm-8">
+                            1/@Model.MaxShutterSpeed
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4 right" align="right">
+                            Min ISO :
+                        </div>
+                        <div class="col-sm-8 left">
+                            @Model.MinISO
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4 right" align="right">
+                            Max ISO :
+                        </div>
+                        <div class="col-sm-8 left">
+                            @Model.MaxISO
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4 right" align="right">
+                            Video Resolution :
+                        </div>
+                        <div class="col-sm-8 left">
+                            @Model.VideoResolution
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4 right" align="right">
+                            Light Metering :
+                        </div>
+                        <div class="col-sm-8 left">
+                            @Model.LightMeterings
+                        </div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <div class="container-fluid">
+                        <div class="col-sm-4 right" align="right">
+                            Description :
+                        </div>
+                        <div class="col-sm-8 left">
+                            @Model.Description
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        </div>
+    </div>

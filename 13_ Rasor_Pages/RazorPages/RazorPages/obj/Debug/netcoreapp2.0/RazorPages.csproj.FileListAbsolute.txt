@@ -1,0 +1,12 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\bin\Debug\netcoreapp2.0\RazorPages.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\13_ Rasor_Pages\RazorPages\RazorPages\obj\Debug\netcoreapp2.0\RazorPages.csprojResolveAssemblyReference.cache

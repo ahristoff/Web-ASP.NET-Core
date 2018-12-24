@@ -1,0 +1,43 @@
+﻿@model IEnumerable<AllUserModel>
+@{
+    ViewData["Title"] = "All Users";
+}
+
+@if (TempData["Success"] != null)
+{
+    <h2 class="text-success">@TempData["Success"]</h2>
+}
+@if (TempData["Error"] != null)
+{
+    <h2 class="text-danger">@TempData["Error"]</h2>
+}
+<h2>@ViewData["Title"]</h2>
+<br />
+<table class="table table-bordered table-hover text-center">
+    <tr>
+        <td>
+            E-mail
+        </td>
+        <td>
+            Phone Number
+        </td>
+        <td></td>
+
+    </tr>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>
+                @user.Email
+            </td>
+            <td>
+                @user.Phone
+            </td>
+            <th class="text-center">
+                <a class="btn btn-sm btn-default" href="/users/roles/@user.Id">Roles</a>
+                <a class="btn btn-sm btn-warning" href="/users/changePassword/@user.Id">Change Password</a>
+                <a class="btn btn-sm btn-danger" href="/users/delete/@user.Id">Delete</a>
+            </th>
+        </tr>
+    }
+</table>

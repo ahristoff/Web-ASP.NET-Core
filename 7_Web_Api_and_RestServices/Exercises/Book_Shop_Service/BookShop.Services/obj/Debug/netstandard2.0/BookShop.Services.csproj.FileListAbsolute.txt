@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\BookShop.Common.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\BookShop.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\BookShop.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\obj\Debug\netstandard2.0\BookShop.Services.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\obj\Debug\netstandard2.0\BookShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\obj\Debug\netstandard2.0\BookShop.Services.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\obj\Debug\netstandard2.0\BookShop.Services.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\BookShop.Services.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\BookShop.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\BookShop.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\BookShop.Common.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\obj\Debug\netstandard2.0\BookShop.Services.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\obj\Debug\netstandard2.0\BookShop.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\obj\Debug\netstandard2.0\BookShop.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\7_Web_Api_and_RestServices\Exercises\Book_Shop_Service\BookShop.Services\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml

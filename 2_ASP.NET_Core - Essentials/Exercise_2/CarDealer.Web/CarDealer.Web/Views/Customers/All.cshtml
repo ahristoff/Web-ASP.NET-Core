@@ -1,0 +1,42 @@
+﻿@model AllCustomersModel
+@using CarDealer.Data
+@inject CarDealerDbContext db
+@{
+    ViewData["Title"] = "All";
+}
+
+
+<h2>All Customers - Ordered in @Model.OrderType.ToString().ToLower() direction</h2>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Birthday
+        </th>
+        <th>
+            Is Young Driver
+        </th>
+    </tr>
+
+    @foreach (var customer in Model.Customers)
+    {
+        <tr>
+            <td>
+                @customer.Name
+            </td>
+            <td>
+                @customer.BirthDay.ToShortDateString()
+            </td>
+            <td>
+                @(customer.IsYoungDriver ? "Yes" : "No")
+            </td>
+            <td class="text-center">
+                <a class="btn btn-sm btn-warning" href="/customers/edit/@customer.Id">Edit</a>
+            </td>
+        </tr>
+    }
+
+</table>

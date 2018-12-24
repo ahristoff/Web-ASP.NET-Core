@@ -1,0 +1,34 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\bin\Debug\netcoreapp2.0\Camera.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\3_Razor_Engine\Exercises\CamerBazaar\Camera.Web\obj\Debug\netcoreapp2.0\Camera.Web.pdb

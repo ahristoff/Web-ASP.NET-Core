@@ -1,0 +1,34 @@
+﻿@model CreateSupplierModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Name">Name: </label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="form-text text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsImporter">IsImporter: </label>
+                <input asp-for="IsImporter" type="checkbox" class="checkbox">
+                <span asp-validation-for="IsImporter" class="form-text text-danger"></span>
+            </div>          
+            <div class="form-group">
+                <label asp-for="AllParts">Parts Names</label>
+                <select asp-for="PartIds" asp-items="Model.AllParts" multiple class="form-control">
+                    <option value="value"></option>
+                </select>
+                <small>* Hold "Ctrl" to select multiply parts</small>
+            </div>
+            <div>
+                <input class="btn btn-success" type="submit" value="Add Supplier" />
+            </div>
+        </form>
+    </div>
+</div>

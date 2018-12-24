@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SaleListModel>
+
+@{
+    ViewData["Title"] = "DiscountedSalesByPersent";
+}
+
+<h2>DiscountedSalesByPersent</h2>
+
+<table class="table table-bordered table-hover text-center">
+    <tr>
+        <td>
+            Customer
+        </td>
+        <td>
+            Discount
+        </td>
+        <td>
+            Price
+        </td>
+        <td>
+            Discounted Price
+        </td>
+        <td></td>
+    </tr>
+    @foreach (var sale in Model)
+    {
+        <tr>
+            <th>
+                @sale.CustomerName
+            </th>
+            <th>
+                @((sale.Discount + (sale.IsYoungDriver ? 0.05 : 0)).ToString("F2"))%
+            </th>
+            <th>
+                @sale.Price.ToString("F2")
+            </th>
+            <th>
+                @sale.DiscounterPrice.ToString("F2")
+            </th>
+            <th class="text-center">
+                <a class="btn btn-sm btn-default" href="/sales/@sale.Id">More Details</a>
+            </th>
+        </tr>
+    }
+</table>

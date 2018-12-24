@@ -1,0 +1,60 @@
+﻿@model UserProfileServiceModel
+@{
+    ViewData["Title"] = $"{Model.UserName} Profile";
+}
+
+<h2>@ViewData["Title"]</h2>
+<br />
+@if (Model.UserName == User.Identity.Name)
+{
+    <a asp-controller="Manage" asp-action="Index" class="btn btn-default">Edit Profile</a>
+}
+<br />
+<br />
+Name: @Model.Name
+<br />
+Username: @Model.UserName
+<br />
+Birthday: @Model.BirthDay.ToShortDateString()
+<br />
+<br />
+Courses
+<br />
+<table class="table-bordered table-hover">
+    <thead>
+        <tr>
+            <th class="col-md-3" style="text-align: center">
+                <h4>Course Name</h4>
+            </th>
+            <th class="col-md-3" style="text-align: center">
+                <h4>Course Grade</h4>
+            </th>
+            <th class="col-md-3" style="text-align: center">Certificate</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var course in Model.Courses)
+        {
+            <tr>
+                <td class="col-md-3" style="text-align: center">
+                    <a asp-controller="Courses" asp-action="Details" asp-route-courseId="@course.Id">@course.Name</a> 
+                </td>
+                <td class="col-md-3" style="text-align:center">
+                    @(course.Grade == null ? "No Grade" : course.Grade.ToString())
+                </td>       
+                <td class="col-md-3" style="text-align:center">
+                    @if (course.Grade == Grade.A || course.Grade == Grade.B || course.Grade == Grade.C)
+                    {
+                        <a asp-controller="Users" asp-action="DownloadSertificate" asp-route-courseId="@course.Id">Download</a>
+                    }
+                    else
+                    {
+                        @:No Certificate
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+

@@ -1,0 +1,51 @@
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_1\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.deps.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Web.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Data.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\bin\Debug\netcoreapp2.0\CarDealer.Services.pdb
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.csproj.CopyComplete
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.dll
+C:\Users\ALEN\Desktop\WEB_ASP.Net\2_ASP.NET_Core - Essentials\Exercise_2\CarDealer.Web\CarDealer.Web\obj\Debug\netcoreapp2.0\CarDealer.Web.pdb

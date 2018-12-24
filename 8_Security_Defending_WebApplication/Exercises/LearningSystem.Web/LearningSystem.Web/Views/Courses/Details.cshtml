@@ -1,0 +1,65 @@
+﻿@model CourseDetailsViewModel
+
+@{
+    ViewData["Title"] = $"{Model.Course.Name} Course";
+}
+
+<h2>@ViewData["Title"] - @Model.Course.Students @(@Model.Course.Students > 1 ? "students" : "student") enrolled</h2>
+<br />
+<br />
+<h3>
+    Trainer - @Model.Course.Trainer
+</h3>
+<br />
+<h3>Course Duration</h3>
+<h3>
+    @Model.Course.StartDate.ToShortDateString() - @Model.Course.EndDate.ToShortDateString()
+</h3>
+<br />
+@if (User.Identity.IsAuthenticated)
+{
+    if (Model.Course.StartDate > DateTime.Now)
+    {
+
+        if (Model.UserIsSignedInCourse)
+        {
+            <form asp-controller="Courses" asp-action="SignOut" asp-route-id="@Model.Course.Id" method="post">
+                <input type="submit" class="btn btn-primary" value="Sign Out">
+            </form>
+            <span style="color:red">You are already signed in to this course</span>
+        }
+        else
+        {
+            <form asp-controller="Courses" asp-action="SignIn" asp-route-id="@Model.Course.Id" method="post">
+                <input type="submit" class="btn btn-primary" value="Sign In">
+            </form>
+        }
+    }
+    if (Model.Course.EndDate.Date == DateTime.Now.Date && Model.UserIsSignedInCourse)
+    {
+        <h1 style="color:red">Exam Day</h1>
+        <br />
+        <form asp-controller="Courses" asp-action="SubmitExam" asp-route-courseId="@Model.Course.Id" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="All"></div>
+            <br />
+            Upload your exam (only .zip files allowed): <input type="file" name="exam" accept=".zip"/>
+            <br />
+            <input type="submit" class="btn btn-primary" value="Upload Exam" />
+        </form>
+    }
+    else
+    {
+        <span>This course is already started or finished.</span>
+    }
+}
+else
+{
+    <span class="text-danger">
+        To sign in this course, please first <a asp-controller="Account" asp-action="register" asp-route-returnUrl="@Context.Request.Path">register</a> or
+        <a asp-controller="Account" asp-action="login" asp-route-returnUrl="@Context.Request.Path">login</a> into your account
+    </span>
+}
+<h3> Description</h3>
+<h3>
+    @Model.Course.Description
+</h3>

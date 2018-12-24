@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Our Products";
+}
+
+<h2>@ViewData["Title"]</h2>
+<br />
+
+@if (this.TempData["SuccessMessage"] != null)
+{
+    <h2 class="alert-success">@TempData["SuccessMessage"]</h2>
+}
+    <br />
+    <br />
+@foreach (var product in Model)
+{
+    <p>
+        @product.Title - @product.Price
+        <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-productId="@product.Id">Add To Cart</a>
+    </p>
+    <br />
+}
